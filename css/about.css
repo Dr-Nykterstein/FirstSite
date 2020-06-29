@@ -8,6 +8,17 @@ div{
     height: 7px;
     z-index: 82;
 }
-
+h1{
+    font-weight: normal;
+    font-size: 42px;
+    font-family: "Pacifico", serif;
+    color: rgb(71, 71, 71);
+    line-height: 0.429;
+    text-align: left;
+    position: absolute;
+    left: 230.848px;
+    top: 53.491px;
+    z-index: 83;
+}
 
 
